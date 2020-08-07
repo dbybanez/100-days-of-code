@@ -9,3 +9,6 @@ Started a full-stack Javascript web application using MEVN stack but modified so
 
 ### R1D2
 Finally done setting up MMSQL (SQL Server) for my project. The overall experience was quite challenging for me since I never use SQL Server in my projects. Although I've tried using it for our Data Warehouse class, we never actually tried using it in any web applications. https://github.com/dbybanez/database-comparison
+
+### R1D3
+Done setting up the back-end of my full-stack Javascript web application Express (Node) for the local server, MongoDB for the test database, Postman for testing the API. https://github.com/dbybanez/database-comparison

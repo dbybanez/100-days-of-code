@@ -21,8 +21,8 @@
 
 ### Day 3: August 7, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Done setting up the back-end of my fill-stack javascript web application which uses Express (Node). I'm only using MongoDB in the meantime to speed up the setup stage. New link for the project below.
 
-**Thoughts:**
+**Thoughts:** I'm actually following a tutorial on Youtube from Brad (Traversy), highly recommended. But I'd also suggest to read the comments since the tutorial was posted years ago and there has been slight changes on how to setup the environment. 
 
-**Link(s) to work:**
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
