@@ -12,3 +12,6 @@ Finally done setting up MMSQL (SQL Server) for my project. The overall experienc
 
 ### R1D3
 Done setting up the back-end of my full-stack Javascript web application Express (Node) for the local server, MongoDB for the test database, Postman for testing the API. https://github.com/dbybanez/database-comparison
+
+### R1D4
+Front-end done! Vue is awesome. But I had few minor bumps when setting it up. I had to update Node so I could run Vue. https://github.com/dbybanez/database-comparison

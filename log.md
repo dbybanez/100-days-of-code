@@ -18,11 +18,18 @@
 
 **Link(s) to work**: [Database Comparison Web Application](https://github.com/dbybanez/database-comparison)
 
-
 ### Day 3: August 7, 2020
 
 **Today's Progress**: Done setting up the back-end of my fill-stack javascript web application which uses Express (Node). I'm only using MongoDB in the meantime to speed up the setup stage. New link for the project below.
 
-**Thoughts:** I'm actually following a tutorial on Youtube from Brad (Traversy), highly recommended. But I'd also suggest to read the comments since the tutorial was posted years ago and there has been slight changes on how to setup the environment. 
+**Thoughts:** I'm actually following a tutorial on Youtube from Brad Traversy (Traversy Media), highly recommended. But I'd also suggest to read the comments since the tutorial was posted years ago and there has been slight changes on how to setup the environment. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 4: August 8, 2020
+
+**Today's Progress**: Done setting up the front-end of my full-stack javascript web application. Vue is awesome! 
+
+**Thoughts:** Got few minor bumps along the way though. I had to update Node because it's causing Vue errors. But after updating it, I was able to run Vue. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
