@@ -30,6 +30,14 @@
 
 **Today's Progress**: Done setting up the front-end of my full-stack javascript web application. Vue is awesome! 
 
-**Thoughts:** Got few minor bumps along the way though. I had to update Node because it's causing Vue errors. But after updating it, I was able to run Vue. 
+**Thoughts:** Got few minor bumps along the way though. I had to update Node because it's causing Vue errors. But after updating it, I was able to run Vue. After setting up the back-end and the front-end, I now have a full-stack javascript web application!
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 5: August 9, 2020
+
+**Today's Progress**: Integrated MySQL to the current setup (MySQL + MEVN stack).
+
+**Thoughts:** Async, Await and Promises... I'm still confused on how these things work 🤣 but I was able to integrate the MySQL database anyways haha. One integration more to go and I should be done on the MMMEVN stack setup.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

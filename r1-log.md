@@ -11,7 +11,10 @@ Started a full-stack Javascript web application using MEVN stack but modified so
 Finally done setting up MMSQL (SQL Server) for my project. The overall experience was quite challenging for me since I never use SQL Server in my projects. Although I've tried using it for our Data Warehouse class, we never actually tried using it in any web applications. https://github.com/dbybanez/database-comparison
 
 ### R1D3
-Done setting up the back-end of my full-stack Javascript web application Express (Node) for the local server, MongoDB for the test database, Postman for testing the API. https://github.com/dbybanez/database-comparison
+Done setting up the back-end of my full-stack Javascript web application Express (Node) for the local server, MongoDB for the test database, Postman for testing the API. https://github.com/dbybanez/dbs-webapp
 
 ### R1D4
-Front-end done! Vue is awesome. But I had few minor bumps when setting it up. I had to update Node so I could run Vue. https://github.com/dbybanez/database-comparison
+Front-end done! Vue is awesome. But I had few minor bumps when setting it up. I had to update Node so I could run Vue. https://github.com/dbybanez/dbs-webapp
+
+### R1D5
+Integrated MySQL to the current setup (MySQL + MEVN stack). One more database integration to go and I should be done with the MMMEVN stack. https://github.com/dbybanez/dbs-webapp
