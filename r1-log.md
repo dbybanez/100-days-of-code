@@ -18,3 +18,10 @@ Front-end done! Vue is awesome. But I had few minor bumps when setting it up. I 
 
 ### R1D5
 Integrated MySQL to the current setup (MySQL + MEVN stack). One more database integration to go and I should be done with the MMMEVN stack. https://github.com/dbybanez/dbs-webapp
+
+### R1D6
+I'm setting up another development machine because I'm experiencing problems with my local SQL Server. I'll be using a different machine for MSSQL integration. Ugh. https://github.com/dbybanez/dbs-webapp
+
+### R1D7
+MSSQL https://github.com/dbybanez/dbs-webapp
+

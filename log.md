@@ -41,3 +41,19 @@
 **Thoughts:** Async, Await and Promises... I'm still confused on how these things work 🤣 but I was able to integrate the MySQL database anyways haha. One integration more to go and I should be done on the MMMEVN stack setup.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 6: August 10, 2020
+
+**Today's Progress**: Setup new development machine
+
+**Thoughts:** I'm setting up another development machine because I'm experiencing problems with my local SQL Server. I'll be using a different machine for MSSQL integration. Ugh.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 7: August 11, 2020
+
+**Today's Progress**: MSSQL integration
+
+**Thoughts:** 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
