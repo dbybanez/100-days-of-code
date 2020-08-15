@@ -23,5 +23,5 @@ Integrated MySQL to the current setup (MySQL + MEVN stack). One more database in
 I'm setting up another development machine because I'm experiencing problems with my local SQL Server. I'll be using a different machine for MSSQL integration. Ugh. https://github.com/dbybanez/dbs-webapp
 
 ### R1D7
-MSSQL https://github.com/dbybanez/dbs-webapp
+Fixed an error when running vue in my local machine. Opened millions of Google Chrome tabs just to find out I just need to remove one line of code. https://github.com/dbybanez/dbs-webapp
 

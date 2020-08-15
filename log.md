@@ -50,10 +50,12 @@
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
 
-### Day 7: August 11, 2020
+### Day 7: August 15, 2020
 
-**Today's Progress**: MSSQL integration
+**Today's Progress**: Fixed an error when running vue in my local machine. Opened millions of Google Chrome tabs just to find out I just need to remove one line of code. 😑
 
-**Thoughts:** 
+**Thoughts:** I need to read documentations and not straight out writing stuff. Like really. Also, I'm finally back after several days of not coding. I couldn't work on my project because of power outages in my area. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+
