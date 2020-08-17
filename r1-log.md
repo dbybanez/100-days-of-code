@@ -25,3 +25,9 @@ I'm setting up another development machine because I'm experiencing problems wit
 ### R1D7
 Fixed an error when running vue in my local machine. Opened millions of Google Chrome tabs just to find out I just need to remove one line of code. https://github.com/dbybanez/dbs-webapp
 
+### R1D8
+Integrated MSSQL in my MEVN stack. Now I got a full MMMEVN stack (MSSQL, MySQL, MongoDB, Express, Vue, and Node). Ez Pz Lemon Squeezy. A big shoutout to my mentor, Stack Overflow, and to the best university in the world, YouTube University. https://github.com/dbybanez/dbs-webapp
+
+### R1D9
+Setting up the UI of my project. Before diving into it, I'm gonna do some wireframes in the next couple of days. https://github.com/dbybanez/dbs-webapp
+

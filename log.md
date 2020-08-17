@@ -58,4 +58,19 @@
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
 
+### Day 8: August 16, 2020
+
+**Today's Progress**: Integrated MSSQL in my MEVN stack. Now I got a full MMMEVN stack (MSSQL, MySQL, MongoDB, Express, Vue, and Node). Ez Pz Lemon Squeezy. A big shoutout to my mentor, Stack Overflow, and to the best university in the world, YouTube University. 😆
+
+**Thoughts:** It all worked fine. I guess. I'll now work on the front-end.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 9: August 17, 2020
+
+**Today's Progress**: Setting up the UI of my project. Before diving into it, I'm gonna do some wireframes in the next couple of days.
+
+**Thoughts:** How do you measure CPU usage of a database?
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
 
