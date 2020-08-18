@@ -78,6 +78,6 @@
 
 **Today's Progress**: Trying to figure out how to integrate SCSS files to my vue app. Just like how Gulp works. 
 
-**Thoughts:** Vue is difficult. 
+**Thoughts:** Vue is difficult. I just integrated my Gulp workflow to Vue!!!!
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
