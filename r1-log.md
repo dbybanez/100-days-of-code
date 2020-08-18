@@ -31,4 +31,5 @@ Integrated MSSQL in my MEVN stack. Now I got a full MMMEVN stack (MSSQL, MySQL, 
 ### R1D9
 Setting up the UI of my project. Before diving into it, I'm gonna do some wireframes in the next couple of days. https://github.com/dbybanez/dbs-webapp
 
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+### R1D10
+Trying to figure out how to integrate SCSS files to my vue app. Just like how Gulp works. Vue is difficult. Lol. https://github.com/dbybanez/dbs-webapp

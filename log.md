@@ -74,4 +74,10 @@
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
 
-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+### Day 10: August 18, 2020
+
+**Today's Progress**: Trying to figure out how to integrate SCSS files to my vue app. Just like how Gulp works. 
+
+**Thoughts:** Vue is difficult. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
