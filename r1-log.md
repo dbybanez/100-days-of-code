@@ -33,3 +33,9 @@ Setting up the UI of my project. Before diving into it, I'm gonna do some wirefr
 
 ### R1D10
 Trying to figure out how to integrate SCSS files to my vue app. Just like how Gulp works. Vue is difficult. Lol. https://github.com/dbybanez/dbs-webapp
+
+### R1D11
+Started to play around the views and layouts for Vue. I'll probably test out Nuxt.js next and utilize webpack instead of Gulp. https://github.com/dbybanez/dbs-webapp
+
+### R1D12
+Working on the UI of my project. I'll stick with my current setup but I'll definitely explore Nuxt after this. https://github.com/dbybanez/dbs-webapp

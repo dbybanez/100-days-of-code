@@ -81,3 +81,19 @@
 **Thoughts:** Vue is difficult. I just integrated my Gulp workflow to Vue!!!!
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 11: August 19, 2020
+
+**Today's Progress**: Started to play around the views and layouts for Vue.
+
+**Thoughts:** I'll probably test out Nuxt.js next and utilize webpack instead of Gulp. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 12: August 20, 2020
+
+**Today's Progress**: Working on the UI of my project.
+
+**Thoughts:** I'll stick with my current setup but I'll definitely explore Nuxt after this. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
