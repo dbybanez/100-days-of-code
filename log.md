@@ -97,3 +97,11 @@
 **Thoughts:** I'll stick with my current setup but I'll definitely explore Nuxt after this. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 13: August 21, 2020
+
+**Today's Progress**: Decided to learn Nuxt and use it for my project. Successfully integrated everything. Express, MySQL, MongoDB, MSSQL, and Bootstrap (UI)
+
+**Thoughts:** I've encountered a lot of error but managed to fix them one by one. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

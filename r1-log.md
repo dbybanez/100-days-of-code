@@ -39,3 +39,6 @@ Started to play around the views and layouts for Vue. I'll probably test out Nux
 
 ### R1D12
 Working on the UI of my project. I'll stick with my current setup but I'll definitely explore Nuxt after this. https://github.com/dbybanez/dbs-webapp
+
+### R1D13
+Decided to learn Nuxt and use it for my project. Successfully integrated everything. Express, MySQL, MongoDB, MSSQL, and Bootstrap (UI). I've encountered a lot of error but managed to fix them one by one.  https://github.com/dbybanez/dbs-webapp
