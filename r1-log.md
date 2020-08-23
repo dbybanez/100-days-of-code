@@ -42,3 +42,6 @@ Working on the UI of my project. I'll stick with my current setup but I'll defin
 
 ### R1D13
 Decided to learn Nuxt and use it for my project. Successfully integrated everything. Express, MySQL, MongoDB, MSSQL, and Bootstrap (UI). I've encountered a lot of error but managed to fix them one by one.  https://github.com/dbybanez/dbs-webapp
+
+### R1D14
+Refactoring database connections. Currently struggling on how to check database connection for MySQL Node. https://github.com/dbybanez/dbs-webapp

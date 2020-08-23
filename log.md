@@ -105,3 +105,19 @@
 **Thoughts:** I've encountered a lot of error but managed to fix them one by one. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 14: August 22, 2020
+
+**Today's Progress**: Working on the UI.
+
+**Thoughts:** Trying to understand more on how components, layouts, and pages work in Nuxt.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 15: August 23, 2020
+
+**Today's Progress**: Refactoring database connections
+
+**Thoughts:** Currently struggling on how to check database connection for MySQL Node.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
