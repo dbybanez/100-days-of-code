@@ -46,5 +46,8 @@ Decided to learn Nuxt and use it for my project. Successfully integrated everyth
 ### R1D14
 Working on the UI. Trying to understand more on how components, layouts, and pages work in Nuxt. https://github.com/dbybanez/dbs-webapp
 
-### R1D14
+### R1D15
 Refactoring database connections. Currently struggling on how to check database connection for MySQL Node. https://github.com/dbybanez/dbs-webapp
+
+### R1D16
+Backend work. Still working on the problem... day 2 lol https://github.com/dbybanez/dbs-webapp

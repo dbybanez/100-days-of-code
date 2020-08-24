@@ -121,3 +121,11 @@
 **Thoughts:** Currently struggling on how to check database connection for MySQL Node.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 16: August 24, 2020
+
+**Today's Progress**: Backend work for MySQL
+
+**Thoughts:** Still working on the problem... day 2 lol
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
