@@ -129,3 +129,11 @@
 **Thoughts:** Still working on the problem... day 2 lol
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 17: August 25, 2020
+
+**Today's Progress**: MySQL error handling finally working. Now with MSSQL.
+
+**Thoughts:** After how many pages I've visited on Google, it's finally working.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

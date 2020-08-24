@@ -51,3 +51,6 @@ Refactoring database connections. Currently struggling on how to check database 
 
 ### R1D16
 Backend work. Still working on the problem... day 2 lol https://github.com/dbybanez/dbs-webapp
+
+### R1D17
+MySQL error handling finally working. Now with MSSQL. https://github.com/dbybanez/dbs-webapp
