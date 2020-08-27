@@ -137,3 +137,19 @@
 **Thoughts:** After how many pages I've visited on Google, it's finally working.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 18: August 26, 2020
+
+**Today's Progress**: Refactored database connection which returns a status when the DB server cannot be reached.
+
+**Thoughts:** MongoDB's documentation is better than MySQL and MSSQL, in my opinion.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 19: August 27, 2020
+
+**Today's Progress**: Working on the Run Test function.
+
+**Thoughts:** How do you pass values from one sibling component to another sibling component?
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

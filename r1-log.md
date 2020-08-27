@@ -54,3 +54,9 @@ Backend work. Still working on the problem... day 2 lol https://github.com/dbyba
 
 ### R1D17
 MySQL error handling finally working. Now with MSSQL. https://github.com/dbybanez/dbs-webapp
+
+### R1D18
+Refactored database connection which returns a status when the DB server cannot be reached. https://github.com/dbybanez/dbs-webapp
+
+### R1D19
+Working on the Run Test function. How do you pass values from one sibling component to another sibling component? https://github.com/dbybanez/dbs-webapp
