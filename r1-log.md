@@ -60,3 +60,6 @@ Refactored database connection which returns a status when the DB server cannot 
 
 ### R1D19
 Working on the Run Test function. How do you pass values from one sibling component to another sibling component? https://github.com/dbybanez/dbs-webapp
+
+### R1D20
+Still working on the Run Test function. Can't figure out how to pass a data from one component to another after after receiving a data from another component. https://github.com/dbybanez/dbs-webapp

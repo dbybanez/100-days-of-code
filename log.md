@@ -153,3 +153,11 @@
 **Thoughts:** How do you pass values from one sibling component to another sibling component?
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 20: August 28, 2020
+
+**Today's Progress**: Still working on the Run Test function.
+
+**Thoughts:** Can't figure out how to pass a data from one component to another after after receiving a data from another component. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
