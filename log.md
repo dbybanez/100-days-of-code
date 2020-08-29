@@ -161,3 +161,11 @@
 **Thoughts:** Can't figure out how to pass a data from one component to another after after receiving a data from another component. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 21: August 29, 2020
+
+**Today's Progress**: Learning Vuex.
+
+**Thoughts:** Forums, Google search results, Reddit, and Stack overflow suggest that I should use Vuex for this problem. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

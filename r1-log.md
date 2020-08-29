@@ -63,3 +63,6 @@ Working on the Run Test function. How do you pass values from one sibling compon
 
 ### R1D20
 Still working on the Run Test function. Can't figure out how to pass a data from one component to another after after receiving a data from another component. https://github.com/dbybanez/dbs-webapp
+
+### R1D21
+Learning Vuex. Forums, Google search results, Reddit, and Stack Overflow suggest that I should use Vuex for this problem. https://github.com/dbybanez/dbs-webapp
