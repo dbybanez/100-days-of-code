@@ -169,3 +169,11 @@
 **Thoughts:** Forums, Google search results, Reddit, and Stack overflow suggest that I should use Vuex for this problem. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 22: August 30, 2020
+
+**Today's Progress**: Completed a crash course on Vuex. 
+
+**Thoughts:** If you're into web development or if you're new to it, I highly recommend Brad (Travery Media). He explains everything very well.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

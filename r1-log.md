@@ -66,3 +66,6 @@ Still working on the Run Test function. Can't figure out how to pass a data from
 
 ### R1D21
 Learning Vuex. Forums, Google search results, Reddit, and Stack Overflow suggest that I should use Vuex for this problem. https://github.com/dbybanez/dbs-webapp
+
+### R1D22
+Completed a crash course on Vuex. If you're into web development or if you're new to it, I highly recommend Brad (Travery Media). He explains everything very well. https://github.com/dbybanez/dbs-webapp
