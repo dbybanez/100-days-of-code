@@ -177,3 +177,11 @@
 **Thoughts:** If you're into web development or if you're new to it, I highly recommend Brad (Travery Media). He explains everything very well.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 23: August 31, 2020
+
+**Today's Progress**: Integrated Vuex to my project. Done setting up modules for the store, and migrated test run functions to Vuex.
+
+**Thoughts:** Vuex makes everything easier. Special thanks to the Stack Overflow and Reddit community for helping me out 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

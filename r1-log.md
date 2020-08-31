@@ -69,3 +69,6 @@ Learning Vuex. Forums, Google search results, Reddit, and Stack Overflow suggest
 
 ### R1D22
 Completed a crash course on Vuex. If you're into web development or if you're new to it, I highly recommend Brad (Travery Media). He explains everything very well. https://github.com/dbybanez/dbs-webapp
+
+### R1D23
+Integrated Vuex to my project. Done setting up modules for the store, and migrated test run functions to Vuex. Vuex makes everything easier. Special thanks to the Stack Overflow and Reddit community for helping me out. https://github.com/dbybanez/dbs-webapp
