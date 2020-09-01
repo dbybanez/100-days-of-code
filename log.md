@@ -185,3 +185,11 @@
 **Thoughts:** Vuex makes everything easier. Special thanks to the Stack Overflow and Reddit community for helping me out 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 24: September 1, 2020
+
+**Today's Progress**: Created a page to display the results from the run test function
+
+**Thoughts:** I'll finish this up and work on the backend again in the next day.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

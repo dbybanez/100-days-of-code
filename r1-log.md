@@ -72,3 +72,6 @@ Completed a crash course on Vuex. If you're into web development or if you're ne
 
 ### R1D23
 Integrated Vuex to my project. Done setting up modules for the store, and migrated test run functions to Vuex. Vuex makes everything easier. Special thanks to the Stack Overflow and Reddit community for helping me out. https://github.com/dbybanez/dbs-webapp
+
+### R1D24
+Created a page to display the results from the run test function. I'll finish this up and work on the backend again in the next day. https://github.com/dbybanez/dbs-webapp
