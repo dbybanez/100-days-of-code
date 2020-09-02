@@ -193,3 +193,11 @@
 **Thoughts:** I'll finish this up and work on the backend again in the next day.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 25: September 2, 2020
+
+**Today's Progress**: Taking a break from my school project. I'm building my new portfolio site with more contents using NuxtJS.
+
+**Thoughts:** I'll work on it tomorrow. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

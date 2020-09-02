@@ -75,3 +75,6 @@ Integrated Vuex to my project. Done setting up modules for the store, and migrat
 
 ### R1D24
 Created a page to display the results from the run test function. I'll finish this up and work on the backend again in the next day. https://github.com/dbybanez/dbs-webapp
+
+### R1D25
+Taking a break from my school project. I'm building my new portfolio site with more contents using NuxtJS. https://github.com/dbybanez/portfolio
