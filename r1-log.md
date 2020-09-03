@@ -78,3 +78,6 @@ Created a page to display the results from the run test function. I'll finish th
 
 ### R1D25
 Taking a break from my school project. I'm building my new portfolio site with more contents using NuxtJS. https://github.com/dbybanez/portfolio
+
+### R1D26
+Working on the backend again. Promises, promise all, ugh. https://github.com/dbybanez/portfolio

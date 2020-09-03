@@ -201,3 +201,11 @@
 **Thoughts:** I'll work on it tomorrow. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 26: September 3, 2020
+
+**Today's Progress**: Working on the backend again.
+
+**Thoughts:** Promises, promise all, ugh.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
