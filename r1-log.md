@@ -81,3 +81,6 @@ Taking a break from my school project. I'm building my new portfolio site with m
 
 ### R1D26
 Working on the backend again. Promises, promise all, ugh. https://github.com/dbybanez/portfolio
+
+### R1D27
+All 3 API endpoint works now. Each endpoint gets all data from MySQL, MSSQL, and MongoDB. Encountered an error when trying to do a load test on the MySQL API endpoint. It throws a "packets out of order" error when doing concurrency of 10 in 20 seconds. But it was an easy fix. Just a couple of Google tabs. https://github.com/dbybanez/dbs-webapp

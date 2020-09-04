@@ -209,3 +209,11 @@
 **Thoughts:** Promises, promise all, ugh.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 27: September 4, 2020
+
+**Today's Progress**: All 3 API endpoint works now where each endpoint gets all data from MySQL, MSSQL, and MongoDB. Fixed an error when trying to do a load test on the MySQL API endpoint where it throws "packets out of order error" with concurrency of 10 in 20 seconds.
+
+**Thoughts:** Encountered an error but it was an easy fix. 
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
