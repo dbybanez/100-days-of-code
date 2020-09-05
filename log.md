@@ -217,3 +217,11 @@
 **Thoughts:** Encountered an error but it was an easy fix. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 28: September 5, 2020
+
+**Today's Progress**: Added an endpoint which queries all data from the 3 databases. Also added load test package which measures API calls latency. 
+
+**Thoughts:** I'm not sure if this is the right path on measuring database performance tho. Lol.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

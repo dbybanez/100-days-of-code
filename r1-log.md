@@ -83,4 +83,4 @@ Taking a break from my school project. I'm building my new portfolio site with m
 Working on the backend again. Promises, promise all, ugh. https://github.com/dbybanez/portfolio
 
 ### R1D27
-All 3 API endpoint now works. Each endpoint gets all data from MySQL, MSSQL, and MongoDB. Encountered an error when trying to do a load test on the MySQL API endpoint. It throws a "packets out of order" error when doing concurrency of 10 within 20 seconds. But it was an easy fix. Just a couple of Google tabs. 😆 https://github.com/dbybanez/dbs-webapp
+Added an endpoint which queries all data from the 3 databases. Also added load test package which measures API calls latency. I'm not sure if this is the right path on measuring database performance tho. Lol. https://github.com/dbybanez/dbs-webapp
