@@ -225,3 +225,11 @@
 **Thoughts:** I'm not sure if this is the right path on measuring database performance tho. Lol.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 28: September 5, 2020
+
+**Today's Progress**: Endpoint for load test done. Added system info.  
+
+**Thoughts:** I'm almost done with my project, just a few things to work on the front-end.
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
