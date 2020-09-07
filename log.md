@@ -233,3 +233,11 @@
 **Thoughts:** I'm almost done with my project, just a few things to work on the front-end.
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 29: September 6, 2020
+
+**Today's Progress**: Added static charts using Vue-chartjs to visualize the data passed from the endpoints
+
+**Thoughts:** This might be challenging when using the actual data. But I don't really know. Haha
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

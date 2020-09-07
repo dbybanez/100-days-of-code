@@ -87,3 +87,6 @@ All 3 API endpoint now works. Each endpoint gets all data from MySQL, MSSQL, and
 
 ### R1D28
 Endpoint for load test done. Added system info. I'm almost done with my project, just a few things to work on the front-end. https://github.com/dbybanez/dbs-webapp
+
+### R1D29
+Added static charts using Vue-chartjs to visualize the data passed from the endpoints. This might be challenging when using the actual data. But I don't really know. Haha https://github.com/dbybanez/dbs-webapp
