@@ -226,7 +226,7 @@
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
 
-### Day 28: September 5, 2020
+### Day 28: September 6, 2020
 
 **Today's Progress**: Endpoint for load test done. Added system info.  
 
@@ -234,10 +234,18 @@
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
 
-### Day 29: September 6, 2020
+### Day 29: September 7, 2020
 
 **Today's Progress**: Added static charts using Vue-chartjs to visualize the data passed from the endpoints
 
 **Thoughts:** This might be challenging when using the actual data. But I don't really know. Haha
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 30: September 8, 2020
+
+**Today's Progress**: rps = total number of requests / time
+
+**Thoughts:** I've been studying lol. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

@@ -90,3 +90,6 @@ Endpoint for load test done. Added system info. I'm almost done with my project,
 
 ### R1D29
 Added static charts using Vue-chartjs to visualize the data passed from the endpoints. This might be challenging when using the actual data. But I don't really know. Haha https://github.com/dbybanez/dbs-webapp
+
+### R1D30
+rps = total number of requests / time. I've been studying lol.  https://github.com/dbybanez/dbs-webapp
