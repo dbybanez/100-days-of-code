@@ -249,3 +249,11 @@
 **Thoughts:** I've been studying lol. 
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 31: September 9, 2020
+
+**Today's Progress**: Fully integrated chartjs and implemented a store for system information.
+
+**Thoughts:** Took me a month to finish my project using technologies I've never used before. And it's finally working! 🎉
+
+**Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)

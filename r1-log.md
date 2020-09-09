@@ -93,3 +93,6 @@ Added static charts using Vue-chartjs to visualize the data passed from the endp
 
 ### R1D30
 rps = total number of requests / time. I've been studying lol.  https://github.com/dbybanez/dbs-webapp
+
+### R1D31
+Fully integrated chartjs and implemented a store for system information. Took me a month to finish my project using technologies I've never used before. And it's finally working! 🎉  https://github.com/dbybanez/dbs-webapp
