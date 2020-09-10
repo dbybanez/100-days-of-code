@@ -257,3 +257,11 @@
 **Thoughts:** Took me a month to finish my project using technologies I've never used before. And it's finally working! 🎉
 
 **Link(s) to work:** [Database Web App](https://github.com/dbybanez/dbs-webapp)
+
+### Day 32: September 10, 2020
+
+**Today's Progress**: New project!!
+
+**Thoughts:** Since I'm done with my project, I'm planning to start a new one. I'm thinking about using Java for this project just to give myself a refresher -- I haven't used Java since college. Lol
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)
