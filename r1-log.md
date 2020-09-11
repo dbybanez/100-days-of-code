@@ -99,3 +99,6 @@ Fully integrated chartjs and implemented a store for system information. Took me
 
 ### R1D32
 Since I'm done with my project, I'm planning to start a new one. I'm thinking about using Java for this project just to give myself a refresher -- I haven't used Java since college. Lol  https://github.com/dbybanez/dbs-webapp
+
+### R1D33
+Java aint for me.

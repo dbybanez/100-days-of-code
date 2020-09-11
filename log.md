@@ -265,3 +265,11 @@
 **Thoughts:** Since I'm done with my project, I'm planning to start a new one. I'm thinking about using Java for this project just to give myself a refresher -- I haven't used Java since college. Lol
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 33: September 11, 2020
+
+**Today's Progress**: Crash course in Java!
+
+**Thoughts:** But Java aint for me. Lol
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)
