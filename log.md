@@ -273,3 +273,11 @@
 **Thoughts:** But Java aint for me. Lol
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 34: September 12, 2020
+
+**Today's Progress**: Fixing Java JNI error.
+
+**Thoughts:** Trying to figure out how to fix JNI error in Java. But I think I'm pretty close to solving it. I just need some admin rights. Damnit.
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

@@ -102,3 +102,6 @@ Since I'm done with my project, I'm planning to start a new one. I'm thinking ab
 
 ### R1D33
 Java aint for me.
+
+### R1D34
+Trying to figure out how to fix JNI error in Java. But I think I'm pretty close to solving it. I just need some admin rights. Damnit.
