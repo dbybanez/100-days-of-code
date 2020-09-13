@@ -281,3 +281,11 @@
 **Thoughts:** Trying to figure out how to fix JNI error in Java. But I think I'm pretty close to solving it. I just need some admin rights. Damnit.
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 35: September 13, 2020
+
+**Today's Progress**: Fixed JNI error. IDE setup done.
+
+**Thoughts:** Was able to fix the error, I had to remove all Java and then download the JDK zip so I can switch between versions. Started learning the basics.
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

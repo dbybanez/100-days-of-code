@@ -105,3 +105,6 @@ Java aint for me.
 
 ### R1D34
 Trying to figure out how to fix JNI error in Java. But I think I'm pretty close to solving it. I just need some admin rights. Damnit.
+
+### R1D35
+Fixed JNI error. IDE setup done. Was able to fix the error, I had to remove all Java and then download the JDK zip so I can switch between versions. Started learning the basics.
