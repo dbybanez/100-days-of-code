@@ -108,3 +108,6 @@ Trying to figure out how to fix JNI error in Java. But I think I'm pretty close 
 
 ### R1D35
 Fixed JNI error. IDE setup done. Was able to fix the error, I had to remove all Java and then download the JDK zip so I can switch between versions. Started learning the basics.
+
+### R1D36
+Our final project would be to create a facial detection app using Java and to come up with a use case for it. To start, I created a simple app that opens the camera of my laptop.

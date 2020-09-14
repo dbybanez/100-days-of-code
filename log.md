@@ -289,3 +289,11 @@
 **Thoughts:** Was able to fix the error, I had to remove all Java and then download the JDK zip so I can switch between versions. Started learning the basics.
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 36: September 14, 2020
+
+**Today's Progress**: Opened my laptop camera using Java. 
+
+**Thoughts:** Our final project would be to create a facial detection app using Java and to come up with a use case for it. To start, I created a simple app that opens the camera of my laptop.
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)
