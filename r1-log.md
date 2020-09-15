@@ -111,3 +111,6 @@ Fixed JNI error. IDE setup done. Was able to fix the error, I had to remove all 
 
 ### R1D36
 Our final project would be to create a facial detection app using Java and to come up with a use case for it. To start, I created a simple app that opens the camera of my laptop.
+
+### R1D37
+Working on my portfolio website and I find it consfusing when setting up the SSL. 

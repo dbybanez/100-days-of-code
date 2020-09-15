@@ -297,3 +297,11 @@
 **Thoughts:** Our final project would be to create a facial detection app using Java and to come up with a use case for it. To start, I created a simple app that opens the camera of my laptop.
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 37: September 15, 2020
+
+**Today's Progress**: Setup portfolio.
+
+**Thoughts:** Working on my portfolio website and I find it consfusing when setting up the SSL. 
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)
