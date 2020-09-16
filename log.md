@@ -305,3 +305,11 @@
 **Thoughts:** Working on my portfolio website and I find it consfusing when setting up the SSL. 
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 38: September 16, 2020
+
+**Today's Progress**: Setup portfolio.
+
+**Thoughts:** I feel like I've messed everything up. I'll have to wait again to see if my website really works.
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

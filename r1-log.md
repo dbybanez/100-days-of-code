@@ -114,3 +114,6 @@ Our final project would be to create a facial detection app using Java and to co
 
 ### R1D37
 Working on my portfolio website and I find it consfusing when setting up the SSL. 
+
+### R1D38
+I feel like I've messed everything up. I'll have to wait again to see if my website really works.
