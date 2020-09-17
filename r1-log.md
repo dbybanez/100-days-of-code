@@ -117,3 +117,6 @@ Working on my portfolio website and I find it consfusing when setting up the SSL
 
 ### R1D38
 I feel like I've messed everything up. I'll have to wait again to see if my website really works.
+
+### R1D39
+After days of scratching my head, my site finally shows up! :)

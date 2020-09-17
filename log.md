@@ -313,3 +313,11 @@
 **Thoughts:** I feel like I've messed everything up. I'll have to wait again to see if my website really works.
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 39: September 17, 2020
+
+**Today's Progress**: Personal website finally up!!
+
+**Thoughts:** After days of scratching my head, my site finally shows up! :)
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)
