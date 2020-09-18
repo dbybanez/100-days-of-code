@@ -321,3 +321,11 @@
 **Thoughts:** After days of scratching my head, my site finally shows up! :)
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 40: September 18, 2020
+
+**Today's Progress**: Done with SEO setup.
+
+**Thoughts:** Done setting up my website's SEO but I'll do minor changes tomorrow. 
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

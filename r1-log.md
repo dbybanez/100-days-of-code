@@ -120,3 +120,6 @@ I feel like I've messed everything up. I'll have to wait again to see if my webs
 
 ### R1D39
 After days of scratching my head, my site finally shows up! :)
+
+### R1D40
+Done setting up my website's SEO but I'll do minor changes tomorrow. Need to read a case study for my class tomorrow. 😓
