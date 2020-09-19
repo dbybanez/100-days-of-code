@@ -329,3 +329,11 @@
 **Thoughts:** Done setting up my website's SEO but I'll do minor changes tomorrow. 
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 41: September 19, 2020
+
+**Today's Progress**: FB Messenger and sitemap done.
+
+**Thoughts:** Integrated FB Messenger Platform and added sitemap for Google Search Console. 
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

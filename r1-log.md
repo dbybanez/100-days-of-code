@@ -123,3 +123,6 @@ After days of scratching my head, my site finally shows up! :)
 
 ### R1D40
 Done setting up my website's SEO but I'll do minor changes tomorrow. Need to read a case study for my class tomorrow. 😓
+
+### R1D41
+Integrated FB Messenger Platform and added sitemap for Google Search Console. 
