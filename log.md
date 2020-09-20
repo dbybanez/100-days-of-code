@@ -337,3 +337,11 @@
 **Thoughts:** Integrated FB Messenger Platform and added sitemap for Google Search Console. 
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 42: September 20, 2020
+
+**Today's Progress**: Disabled Guest Mode.
+
+**Thoughts:** Disabled Guest Mode in FB Messenger to avoid trolls. 😬
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

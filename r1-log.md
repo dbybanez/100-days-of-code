@@ -126,3 +126,6 @@ Done setting up my website's SEO but I'll do minor changes tomorrow. Need to rea
 
 ### R1D41
 Integrated FB Messenger Platform and added sitemap for Google Search Console. 
+
+### R1D42
+Disabled Guest Mode in FB Messenger to avoid trolls. 😬
