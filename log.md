@@ -345,3 +345,11 @@
 **Thoughts:** Disabled Guest Mode in FB Messenger to avoid trolls. 😬
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 43: September 21, 2020
+
+**Today's Progress**: Updated website footer.
+
+**Thoughts:** Updated website footer. I'll have to sign off early today because I'm having problems with my connection. Once this gets fixed, I'll finish my facial recognition project. 
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)

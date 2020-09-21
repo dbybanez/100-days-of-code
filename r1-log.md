@@ -129,3 +129,6 @@ Integrated FB Messenger Platform and added sitemap for Google Search Console.
 
 ### R1D42
 Disabled Guest Mode in FB Messenger to avoid trolls. 😬
+
+### R1D43
+Updated website footer. I'll have to sign off early today because I'm having problems with my connection. Once this gets fixed, I'll finish my facial recognition project. 
