@@ -132,3 +132,9 @@ Disabled Guest Mode in FB Messenger to avoid trolls. 😬
 
 ### R1D43
 Updated website footer. I'll have to sign off early today because I'm having problems with my connection. Once this gets fixed, I'll finish my facial recognition project. 
+
+### R1D44
+Getting back to my unfinished Java crash course. 
+
+### R1D45
+Arrays, Multi-dimensional arrays, constants, arithmetic expressions, order of operations, casting, Math class, and formatting numbers. 

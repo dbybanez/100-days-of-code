@@ -353,3 +353,19 @@
 **Thoughts:** Updated website footer. I'll have to sign off early today because I'm having problems with my connection. Once this gets fixed, I'll finish my facial recognition project. 
 
 **Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 44: September 22, 2020
+
+**Today's Progress**: Getting back to Java.
+
+**Thoughts:** Java basics. 
+
+**Link(s) to work:** [New Project](https://github.com/dbybanez)
+
+### Day 45: September 23, 2020
+
+**Today's Progress**: Java week.
+
+**Thoughts:** Arrays, Multi-dimensional arrays, constants, arithmetic expressions, order of operations, casting, Math class, and formatting numbers. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
