@@ -369,3 +369,11 @@
 **Thoughts:** Arrays, Multi-dimensional arrays, constants, arithmetic expressions, order of operations, casting, Math class, and formatting numbers. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 46: September 24, 2020
+
+**Today's Progress**: Bug fix on my portfolio site.
+
+**Thoughts:** Had to quickly fix a bug I saw on my portfolio site. The FB Messenger keeps on blinking non-stop. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

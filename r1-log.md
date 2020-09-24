@@ -138,3 +138,6 @@ Getting back to my unfinished Java crash course.
 
 ### R1D45
 Arrays, Multi-dimensional arrays, constants, arithmetic expressions, order of operations, casting, Math class, and formatting numbers. 
+
+### R1D46
+Bug fix on my portfolio site. Had to quickly fix a bug I saw on my portfolio site. The FB Messenger keeps on blinking non-stop. 
