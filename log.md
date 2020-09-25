@@ -377,3 +377,11 @@
 **Thoughts:** Had to quickly fix a bug I saw on my portfolio site. The FB Messenger keeps on blinking non-stop. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 47: September 25, 2020
+
+**Today's Progress**: Java week.
+
+**Thoughts:** Comparison operators, logical operators, if statements, simplying if statements, ternary operator, switch statements.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

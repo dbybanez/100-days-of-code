@@ -141,3 +141,6 @@ Arrays, Multi-dimensional arrays, constants, arithmetic expressions, order of op
 
 ### R1D46
 Bug fix on my portfolio site. Had to quickly fix a bug I saw on my portfolio site. The FB Messenger keeps on blinking non-stop. 
+
+### R1D47
+Java week: Comparison operators, logical operators, if statements, simplying if statements, ternary operator, switch statements.
