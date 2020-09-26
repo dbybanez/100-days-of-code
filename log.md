@@ -385,3 +385,11 @@
 **Thoughts:** Comparison operators, logical operators, if statements, simplying if statements, ternary operator, switch statements.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 48: September 26, 2020
+
+**Today's Progress**: Java week.
+
+**Thoughts:** Object-oriented programming session.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
