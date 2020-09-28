@@ -393,3 +393,12 @@
 **Thoughts:** Object-oriented programming session.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 49 & 50: September 27 & 28, 2020
+
+**Today's Progress**: Java week.
+
+**Thoughts:** Abstraction, Polymorphism, Inheritance, and Encapsulation. Took a day-off yesterday from coding to recharge my body. Went to the beach to relax, enjoy the weather, and listen to the sound of the waves. 🌊
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+

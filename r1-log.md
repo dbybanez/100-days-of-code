@@ -147,3 +147,6 @@ Java week: Comparison operators, logical operators, if statements, simplying if 
 
 ### R1D48
 Java week: Object-oriented programming session.
+
+### R1D49 & 50
+Java session: Abstraction, Polymorphism, Inheritance, and Encapsulation. Took a day-off yesterday from coding to recharge my body. Went to the beach to relax, enjoy the weather, and listen to the sound of the waves. 🌊
