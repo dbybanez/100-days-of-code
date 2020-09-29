@@ -402,3 +402,10 @@
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
 
+### Day 51: September 29, 2020
+
+**Today's Progress**: New project!
+
+**Thoughts:** I'm not done with Java but I can't wait to build another project. I'm working on a mini project which I'll share in the next couple of days.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

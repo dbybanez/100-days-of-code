@@ -150,3 +150,6 @@ Java week: Object-oriented programming session.
 
 ### R1D49 & 50
 Java session: Abstraction, Polymorphism, Inheritance, and Encapsulation. Took a day-off yesterday from coding to recharge my body. Went to the beach to relax, enjoy the weather, and listen to the sound of the waves. 🌊
+
+### R1D51
+New project! I'm not done with Java but I can't wait to build another project. I'm working on a mini project which I'll share in the next couple of days.
