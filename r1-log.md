@@ -153,3 +153,6 @@ Java session: Abstraction, Polymorphism, Inheritance, and Encapsulation. Took a 
 
 ### R1D51
 New project! I'm not done with Java but I can't wait to build another project. I'm working on a mini project which I'll share in the next couple of days.
+
+### R1D52
+New mini project is a URL shortener. I'll be using Nuxt, Express, MySQL stack for this project. 

@@ -409,3 +409,11 @@
 **Thoughts:** I'm not done with Java but I can't wait to build another project. I'm working on a mini project which I'll share in the next couple of days.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 52: September 30, 2020
+
+**Today's Progress**: New mini project is a URL shortener
+
+**Thoughts:** I'll be using Nuxt, Express, MySQL stack for this project. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
