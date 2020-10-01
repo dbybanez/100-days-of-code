@@ -156,3 +156,6 @@ New project! I'm not done with Java but I can't wait to build another project. I
 
 ### R1D52
 New mini project is a URL shortener. I'll be using Nuxt, Express, MySQL stack for this project. 
+
+### R1D53
+Created endpoint to retrieve all URLs generated. I'll work on creating a URL but I forgot how to post a data. 😐

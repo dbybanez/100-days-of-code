@@ -417,3 +417,11 @@
 **Thoughts:** I'll be using Nuxt, Express, MySQL stack for this project. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 53: October 1, 2020
+
+**Today's Progress**: Created endpoint to retrieve all URLs generated.
+
+**Thoughts:** I'll work on creating a URL but I forgot how to post a data. 😐
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
