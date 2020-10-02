@@ -159,3 +159,6 @@ New mini project is a URL shortener. I'll be using Nuxt, Express, MySQL stack fo
 
 ### R1D53
 Created endpoint to retrieve all URLs generated. I'll work on creating a URL but I forgot how to post a data. 😐
+
+### R1D54
+Implemented create URL. Woooh!

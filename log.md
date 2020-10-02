@@ -425,3 +425,11 @@
 **Thoughts:** I'll work on creating a URL but I forgot how to post a data. 😐
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 54: October 2, 2020
+
+**Today's Progress**: Implemented generate URL!
+
+**Thoughts:** Ill work on some other features tomorrow.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
