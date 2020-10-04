@@ -433,3 +433,19 @@
 **Thoughts:** Ill work on some other features tomorrow.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 55: October 3, 2020
+
+**Today's Progress**: Form validation done.
+
+**Thoughts:** I just hate form validation. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 56: October 4, 2020
+
+**Today's Progress**: Working on a function that will update the number of clicks of a given link.
+
+**Thoughts:** Will continue tomorrow because my migraine is killing me. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
