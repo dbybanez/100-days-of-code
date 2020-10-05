@@ -168,3 +168,6 @@ I just hate form validation. But at least I'm done with it.
 
 ### R1D56
 Working on a function that will update the number of clicks of a given link. Will continue tomorrow because my migraine is killing me. 
+
+### R1D57
+URL redirect now works. But I haven't tested it in a real server. 

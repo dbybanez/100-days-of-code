@@ -449,3 +449,11 @@
 **Thoughts:** Will continue tomorrow because my migraine is killing me. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 57: October 5, 2020
+
+**Today's Progress**: URL redirect now works.
+
+**Thoughts:** But I haven't tested it in a real server. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
