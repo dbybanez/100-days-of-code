@@ -457,3 +457,11 @@
 **Thoughts:** But I haven't tested it in a real server. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 58: October 6, 2020
+
+**Today's Progress**: URL redirect isn't working again.
+
+**Thoughts:** The app looks pretty bad and I think I kinda messed everything up. I'm thinking of abandoning it and start all over again. I should've planned everything before jumping to coding. 😑
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

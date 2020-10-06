@@ -171,3 +171,6 @@ Working on a function that will update the number of clicks of a given link. Wil
 
 ### R1D57
 URL redirect now works. But I haven't tested it in a real server. 
+
+### R1D58
+URL redirect isn't working again. The app looks pretty bad and I think I kinda messed everything up. I'm thinking of abandoning it and start all over again. I should've planned the architecture before jumping to coding. 😑
