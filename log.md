@@ -465,3 +465,11 @@
 **Thoughts:** The app looks pretty bad and I think I kinda messed everything up. I'm thinking of abandoning it and start all over again. I should've planned everything before jumping to coding. 😑
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 59: October 7, 2020
+
+**Today's Progress**: URL shortener V2
+
+**Thoughts:** Decided to start all over again. But this time, with clean code. 🐱‍👤
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

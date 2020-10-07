@@ -174,3 +174,6 @@ URL redirect now works. But I haven't tested it in a real server.
 
 ### R1D58
 URL redirect isn't working again. The app looks pretty bad and I think I kinda messed everything up. I'm thinking of abandoning it and start all over again. I should've planned the architecture before jumping to coding. 😑
+
+### R1D59
+URL shortener V2. Decided to start all over again. But this time, with clean code. 🐱‍👤
