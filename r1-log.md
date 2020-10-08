@@ -177,3 +177,6 @@ URL redirect isn't working again. The app looks pretty bad and I think I kinda m
 
 ### R1D59
 URL shortener V2. Decided to start all over again. But this time, with clean code. 🐱‍👤
+
+### R1D60
+URL shortener V2. Started with the UI using Nuxt. 

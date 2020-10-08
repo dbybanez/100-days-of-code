@@ -473,3 +473,11 @@
 **Thoughts:** Decided to start all over again. But this time, with clean code. 🐱‍👤
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 60: October 8, 2020
+
+**Today's Progress**: URL shortener V2
+
+**Thoughts:** Started with the UI using Nuxt.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
