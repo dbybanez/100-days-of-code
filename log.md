@@ -481,3 +481,11 @@
 **Thoughts:** Started with the UI using Nuxt.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 61: October 9, 2020
+
+**Today's Progress**: Added my SCSS boilerplate into the project.
+
+**Thoughts:** So far so good. LOL
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

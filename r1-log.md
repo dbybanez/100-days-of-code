@@ -180,3 +180,6 @@ URL shortener V2. Decided to start all over again. But this time, with clean cod
 
 ### R1D60
 URL shortener V2. Started with the UI using Nuxt. 
+
+### R1D61
+Added my SCSS boilerplate into the project. So far so good. LOL
