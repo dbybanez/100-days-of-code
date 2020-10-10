@@ -489,3 +489,11 @@
 **Thoughts:** So far so good. LOL
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 62: October 10, 2020
+
+**Today's Progress**: Home page layout
+
+**Thoughts:** Wasn't able to code much today, my besfwen just got married and he made me a driver for the day. 😐
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

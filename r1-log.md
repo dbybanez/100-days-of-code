@@ -183,3 +183,6 @@ URL shortener V2. Started with the UI using Nuxt.
 
 ### R1D61
 Added my SCSS boilerplate into the project. So far so good. LOL
+
+### R1D62
+Created home page layout. Wasn't able to code much today, my besfwen just got married and he made me a driver for a day. But still, congrats!! 🎉 
