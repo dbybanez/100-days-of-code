@@ -186,3 +186,6 @@ Added my SCSS boilerplate into the project. So far so good. LOL
 
 ### R1D62
 Created home page layout. Wasn't able to code much today, my besfwen just got married and he made me a driver for a day. But still, congrats!! 🎉 
+
+### R1D63
+Created component for default form. One of the things that made me decide to redo the mini-project is that I didn't have a clean code. I was so focused on building the app without thinking about the maintainability of the project. 

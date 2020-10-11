@@ -497,3 +497,11 @@
 **Thoughts:** Wasn't able to code much today, my besfwen just got married and he made me a driver for the day. 😐
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 63: October 11, 2020
+
+**Today's Progress**: Created component for default form. 
+
+**Thoughts:** One of the things that made me decide to redo the mini-project is that I didn't have a clean code. I was so focused on building the app without thinking about the maintainability of the project. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
