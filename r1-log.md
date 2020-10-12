@@ -189,3 +189,6 @@ Created home page layout. Wasn't able to code much today, my besfwen just got ma
 
 ### R1D63
 Created component for default form. One of the things that made me decide to redo the mini-project is that I didn't have a clean code. I was so focused on building the app without thinking about the maintainability of the project. 
+
+### R1D64
+Added URL input validation. Error occurs when the field is empty or the input is invalid input. 

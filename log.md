@@ -505,3 +505,11 @@
 **Thoughts:** One of the things that made me decide to redo the mini-project is that I didn't have a clean code. I was so focused on building the app without thinking about the maintainability of the project. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 64: October 12, 2020
+
+**Today's Progress**: Added URL input validation. Error occurs when the field is empty or the input is invalid input. 
+
+**Thoughts:** 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
