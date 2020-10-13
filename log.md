@@ -513,3 +513,11 @@
 **Thoughts:** 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 65: October 13, 2020
+
+**Today's Progress**: Added Slug input validation. The app lets users use their own slug for their URL.
+
+**Thoughts:** I had to search for regex where it filters special charaters. I was thinking of accepting underscores and hyphens but it makes the regex more complicated. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

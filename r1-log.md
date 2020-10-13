@@ -192,3 +192,6 @@ Created component for default form. One of the things that made me decide to red
 
 ### R1D64
 Added URL input validation. Error occurs when the field is empty or the input is invalid input. 
+
+### R1D65
+Added Slug input validation. The app lets users use their own slug for their URL. I had to search for regex where it filters special charaters. I was thinking of accepting underscores and hyphens but it makes the regex more complicated. 
