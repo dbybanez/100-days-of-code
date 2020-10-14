@@ -195,3 +195,6 @@ Added URL input validation. Error occurs when the field is empty or the input is
 
 ### R1D65
 Added Slug input validation. The app lets users use their own slug for their URL. I had to search for regex where it filters special charaters. I was thinking of accepting underscores and hyphens but it makes the regex more complicated. 
+
+### R1D66
+Moved methods and other data to the store. Decided to use vuex for the project so it would be easier to maintain later. 

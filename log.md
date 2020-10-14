@@ -521,3 +521,11 @@
 **Thoughts:** I had to search for regex where it filters special charaters. I was thinking of accepting underscores and hyphens but it makes the regex more complicated. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 66: October 14, 2020
+
+**Today's Progress**: Moved methods and other data to the store. 
+
+**Thoughts:** Decided to use vuex for the project so it would be easier to maintain later. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
