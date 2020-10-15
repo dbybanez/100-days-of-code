@@ -529,3 +529,11 @@
 **Thoughts:** Decided to use vuex for the project so it would be easier to maintain later. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 67: October 15, 2020
+
+**Today's Progress**: Created a component which shows the generated URL.
+
+**Thoughts:** Next task: work on a feature where users can edit or delete their URL. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

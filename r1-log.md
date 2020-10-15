@@ -198,3 +198,6 @@ Added Slug input validation. The app lets users use their own slug for their URL
 
 ### R1D66
 Moved methods and other data to the store. Decided to use vuex for the project so it would be easier to maintain later. 
+
+### R1D67
+Created a component which shows the generated URL. Next task: work on a feature where users can edit or delete their URL. 
