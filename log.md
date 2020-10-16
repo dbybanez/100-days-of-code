@@ -537,3 +537,11 @@
 **Thoughts:** Next task: work on a feature where users can edit or delete their URL. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 68: October 16, 2020
+
+**Today's Progress**: Figuring out how to open a modal in Vue. Man, this is confusing.
+
+**Thoughts:** jQuery days were easier. Lol
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

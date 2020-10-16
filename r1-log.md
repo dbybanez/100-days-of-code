@@ -201,3 +201,6 @@ Moved methods and other data to the store. Decided to use vuex for the project s
 
 ### R1D67
 Created a component which shows the generated URL. Next task: work on a feature where users can edit or delete their URL. 
+
+### R1D68
+Figuring out how to open a modal in Vue. Man, this is confusing.
