@@ -545,3 +545,11 @@
 **Thoughts:** jQuery days were easier. Lol
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 69: October 17, 2020
+
+**Today's Progress**: Modal works but it doesn't have any animation. And I can't dismiss the modal by clicking outside the box. 
+
+**Thoughts:** I'll explore more about it later. In the meantime, I'll continue working on the backend. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

@@ -204,3 +204,6 @@ Created a component which shows the generated URL. Next task: work on a feature 
 
 ### R1D68
 Figuring out how to open a modal in Vue. Man, this is confusing.
+
+### R1D69
+Modal works but it doesn't have any animation. And I can't dismiss the modal by clicking outside the box. I'll explore more about it later. In the meantime, I'll continue working on the backend. 
