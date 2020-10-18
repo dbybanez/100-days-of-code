@@ -553,3 +553,11 @@
 **Thoughts:** I'll explore more about it later. In the meantime, I'll continue working on the backend. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 70: October 18, 2020
+
+**Today's Progress**: Learning OOP in Java
+
+**Thoughts:** Taking a break from my mini project. I should really start working on my school project, which is to make a face detection app. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

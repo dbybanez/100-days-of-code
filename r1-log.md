@@ -207,3 +207,6 @@ Figuring out how to open a modal in Vue. Man, this is confusing.
 
 ### R1D69
 Modal works but it doesn't have any animation. And I can't dismiss the modal by clicking outside the box. I'll explore more about it later. In the meantime, I'll continue working on the backend. 
+
+### R1D70
+Learning OOP in Java. Taking a break from my mini project. I should really start working on my school project, which is to make a face detection app. 
