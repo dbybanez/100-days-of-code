@@ -210,3 +210,6 @@ Modal works but it doesn't have any animation. And I can't dismiss the modal by 
 
 ### R1D70
 Learning OOP in Java. Taking a break from my mini project. I should really start working on my school project, which is to make a face detection app. 
+
+### R1D71
+Short exercise in Java: Multidimentional arrays.

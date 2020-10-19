@@ -561,3 +561,11 @@
 **Thoughts:** Taking a break from my mini project. I should really start working on my school project, which is to make a face detection app. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 71: October 19, 2020
+
+**Today's Progress**: Short exercise in Java: Multidimentional arrays.
+
+**Thoughts:** 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
