@@ -569,3 +569,11 @@
 **Thoughts:** 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 72: October 20, 2020
+
+**Today's Progress**: Laravel crash
+
+**Thoughts:** I'm kinda mixing a lot of stuff lately. I had this new project at work where the dev team decided to use Laravel + Vue.JS tech stack. I used PHP several years ago but after learning JS backend, I just kinda got off with it. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
