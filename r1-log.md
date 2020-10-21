@@ -216,3 +216,6 @@ Short exercise in Java: Multidimentional arrays.
 
 ### R1D72
 Laravel crash. I'm kinda mixing a lot of stuff lately. I had this new project at work where the dev team decided to use Laravel + Vue.JS tech stack. I used PHP several years ago but after learning JS backend, I just kinda got off with it. 
+
+### R1D73
+Familiarizing Laravel structure. Any good tutorials for Laravel 8?
