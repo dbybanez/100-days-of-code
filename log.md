@@ -585,3 +585,11 @@
 **Thoughts:** Any good tutorials for Laravel 8?
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 74 - 76: October 22 - 24, 2020
+
+**Today's Progress**: Classes, constructors, and overloading in Java.
+
+**Thoughts:** Haven't posted for the past few days, I've been busy studying for my midterm exams. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

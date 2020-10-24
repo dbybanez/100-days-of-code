@@ -219,3 +219,6 @@ Laravel crash. I'm kinda mixing a lot of stuff lately. I had this new project at
 
 ### R1D73
 Familiarizing Laravel structure. Any good tutorials for Laravel 8?
+
+### R1D74-76
+Classes, constructors, and overloading in Java. Haven't posted for the past few days, I've been busy studying for my midterm exams (OOP and Project Management). 
