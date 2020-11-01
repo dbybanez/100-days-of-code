@@ -601,3 +601,11 @@
 **Thoughts:** I'm starting to like Java now. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 84: November 1, 2020
+
+**Today's Progress**: Resuming my Laravel learning sessions. 
+
+**Thoughts:** I'm trying to figure out how to use Nuxt in Laravel. It would be easier for me to understand if there's a data flow diagram available but I guess I'll have to figure it out myself. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

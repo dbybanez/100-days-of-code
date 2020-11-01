@@ -225,3 +225,6 @@ Classes, constructors, and overloading in Java. Haven't posted for the past few 
 
 ### R1D77-83
 Done with my exams. I should be back on track starting tomorrow. I'm starting to like Java now. 
+
+### R1D84
+Resuming my Laravel learning sessions. I'm trying to figure out how to use Nuxt in Laravel. It would be easier for me to understand if there's a data flow diagram available but I guess I'll have to figure it out myself. 
