@@ -222,3 +222,6 @@ Familiarizing Laravel structure. Any good tutorials for Laravel 8?
 
 ### R1D74-76
 Classes, constructors, and overloading in Java. Haven't posted for the past few days, I've been busy studying for my midterm exams (OOP and Project Management). 
+
+### R1D77-83
+Done with my exams. I should be back on track starting tomorrow. I'm starting to like Java now. 

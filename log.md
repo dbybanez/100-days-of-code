@@ -593,3 +593,11 @@
 **Thoughts:** Haven't posted for the past few days, I've been busy studying for my midterm exams. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 77 - 83: October 25 - 31, 2020
+
+**Today's Progress**: Done with my exams. I should be back on track starting tomorrow. 
+
+**Thoughts:** I'm starting to like Java now. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
