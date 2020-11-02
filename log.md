@@ -609,3 +609,11 @@
 **Thoughts:** I'm trying to figure out how to use Nuxt in Laravel. It would be easier for me to understand if there's a data flow diagram available but I guess I'll have to figure it out myself. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 85: November 2, 2020
+
+**Today's Progress**: Basic routing and controllers with Laravel.
+
+**Thoughts:** Following another good tutorial from Brad. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
