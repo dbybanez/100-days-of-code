@@ -230,4 +230,7 @@ Done with my exams. I should be back on track starting tomorrow. I'm starting to
 Resuming my Laravel learning sessions. I'm trying to figure out how to use Nuxt in Laravel. It would be easier for me to understand if there's a data flow diagram available but I guess I'll have to figure it out myself. 
 
 ### R1D85
-Basic routing and controllers with Laravel. Following another good tutorial from Brad. 
+Basic routing and controllers with Laravel. Following another good tutorial from Brad.
+
+### R1D86
+Fetching data with Eloquent. Wow, never thought Laravel was this easy. I'm starting to like PHP again. Very cool, Laravel.

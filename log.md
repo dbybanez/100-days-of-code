@@ -617,3 +617,11 @@
 **Thoughts:** Following another good tutorial from Brad. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 86: November 3, 2020
+
+**Today's Progress**: Fetching data with Eloquent.
+
+**Thoughts:** Wow, never thought Laravel was this easy. I'm starting to like PHP again. Very cool, Laravel.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
