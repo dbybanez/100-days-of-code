@@ -625,3 +625,11 @@
 **Thoughts:** Wow, never thought Laravel was this easy. I'm starting to like PHP again. Very cool, Laravel.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 87: November 4, 2020
+
+**Today's Progress**: Forms, saving, edit, and delete data. 
+
+**Thoughts:** Once I'm done with Laravel, I'll get back to my mini project and finish it before the challenge ends. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
