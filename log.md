@@ -633,3 +633,11 @@
 **Thoughts:** Once I'm done with Laravel, I'll get back to my mini project and finish it before the challenge ends. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 88: November 5, 2020
+
+**Today's Progress**: Added user authentication.
+
+**Thoughts:** Laravel just makes everything easier. Wow.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

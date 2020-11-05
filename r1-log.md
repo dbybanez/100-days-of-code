@@ -237,3 +237,6 @@ Fetching data with Eloquent. Wow, never thought Laravel was this easy. I'm start
 
 ### R1D87
 Forms, saving, edit, and delete data. Once I'm done with Laravel, I'll get back to my mini project and finish it before the challenge ends. 
+
+### R1D88
+Added user authentication. Laravel just makes everything easier. Wow.
