@@ -240,3 +240,6 @@ Forms, saving, edit, and delete data. Once I'm done with Laravel, I'll get back 
 
 ### R1D88
 Added user authentication. Laravel just makes everything easier. Wow.
+
+### R1D89
+Model relationships and file uploads. Done with the Laravel series. I'm gonna get back with my mini project to finish the 100 days of code challenge.

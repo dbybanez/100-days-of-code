@@ -641,3 +641,11 @@
 **Thoughts:** Laravel just makes everything easier. Wow.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 89: November 6, 2020
+
+**Today's Progress**: Model relationships and file uploads.
+
+**Thoughts:** Done with the Laravel series. I'm gonna get back with my mini project to finish the 100 days of code challenge.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
