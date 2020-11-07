@@ -243,3 +243,6 @@ Added user authentication. Laravel just makes everything easier. Wow.
 
 ### R1D89
 Model relationships and file uploads. Done with the Laravel series. I'm gonna get back with my mini project to finish the 100 days of code challenge.
+
+### R1D90
+Finishing my mini project.

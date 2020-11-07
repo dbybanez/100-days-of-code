@@ -649,3 +649,11 @@
 **Thoughts:** Done with the Laravel series. I'm gonna get back with my mini project to finish the 100 days of code challenge.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 90: November 7, 2020
+
+**Today's Progress**: Finishing my mini project.
+
+**Thoughts:** 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
