@@ -246,3 +246,6 @@ Model relationships and file uploads. Done with the Laravel series. I'm gonna ge
 
 ### R1D90
 Finishing my mini project.
+
+### R1D91-92
+Added edit page for the URL shortener. The edit feature is a bit complicated and I'm still thinking if I should continue the feature or not.

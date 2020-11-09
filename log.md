@@ -657,3 +657,11 @@
 **Thoughts:** 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 91-92: November 8-9, 2020
+
+**Today's Progress**: Added edit page for the URL shortener.
+
+**Thoughts:** The edit feature is a bit complicated and I'm still thinking if I should continue the feature or not.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
