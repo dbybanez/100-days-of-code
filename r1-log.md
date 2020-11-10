@@ -249,3 +249,6 @@ Finishing my mini project.
 
 ### R1D91-92
 Added edit page for the URL shortener. The edit feature is a bit complicated and I'm still thinking if I should continue the feature or not.
+
+### R1D93
+Added loading state, added backend from intial project. Hopefully, everything would work just fine. 7 days to go.

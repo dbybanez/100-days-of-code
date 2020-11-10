@@ -665,3 +665,11 @@
 **Thoughts:** The edit feature is a bit complicated and I'm still thinking if I should continue the feature or not.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 93: November 10, 2020
+
+**Today's Progress**: Added loading state, added backend from intial project.
+
+**Thoughts:** Hopefully, everything would work just fine.  7 days to go.
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
