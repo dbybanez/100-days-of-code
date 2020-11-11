@@ -252,3 +252,6 @@ Added edit page for the URL shortener. The edit feature is a bit complicated and
 
 ### R1D93
 Added loading state, added backend from intial project. Hopefully, everything would work just fine. 7 days to go.
+
+### R1D94
+Integrated create URL function, fixed a bug where a if a slug exists, the slug would still be inserted in the database. Next up would be to implement the redirection. 

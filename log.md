@@ -673,3 +673,11 @@
 **Thoughts:** Hopefully, everything would work just fine.  7 days to go.
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 94: November 11, 2020
+
+**Today's Progress**: Integrated create URL function, fixed a bug where a if a slug exists, the slug would still be inserted in the database.
+
+**Thoughts:** Next up would be to implement the redirection. 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)
