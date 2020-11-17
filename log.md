@@ -681,3 +681,11 @@
 **Thoughts:** Next up would be to implement the redirection. 
 
 **Link(s) to work:** [Java Crash](https://github.com/dbybanez)
+
+### Day 95-100: November 12-17, 2020
+
+**Today's Progress**: URL shortener is done! But I'll have to deploy it first and see if it works. 
+
+**Thoughts:** It was fun joining the #100DaysOfCode challenge and I've learned a lot, like a lot a lot! 
+
+**Link(s) to work:** [Java Crash](https://github.com/dbybanez)

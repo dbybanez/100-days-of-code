@@ -255,3 +255,6 @@ Added loading state, added backend from intial project. Hopefully, everything wo
 
 ### R1D94
 Integrated create URL function, fixed a bug where a if a slug exists, the slug would still be inserted in the database. Next up would be to implement the redirection. 
+
+### R1D95-100
+URL shortener is done! But I'll have to deploy it first and see if it works. It was fun joining the #100DaysOfCode challenge and I've learned a lot, like a lot a lot! 
